@@ -19,8 +19,6 @@ A simple banking web app for  deposits and withdrawals.
 4. View balance in real-time.
 
 ## URL
+https://prabathunni.github.io/simple-bank/
 
-
-## License
-For educational purposes.
 
