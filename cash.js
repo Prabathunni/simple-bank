@@ -67,5 +67,5 @@ function withdrawButton() {
 function logout(){
     localStorage.clear()
     alert("Logout Successfull")
-    window.location='./welcome.html'
+    window.location='./index.html'
 }
